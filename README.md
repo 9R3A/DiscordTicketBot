@@ -35,6 +35,7 @@ A Ticket Discord Bot With Claim , Mention , Save Tickets , Open Log
 ```
 npm install discord.js dotenv
 ```
+> Each One
 ```
 npm install
 ```
